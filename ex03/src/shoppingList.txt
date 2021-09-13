@@ -4,8 +4,4 @@ Shopping list:
 - Bananas;
 - Cherries;
 - Carrots;
-<<<<<<< HEAD
 - Strawberries;
-=======
-- Strawberries;
->>>>>>> 9eee8307cea76b0ebbcf918e7bad25956f1980f7
